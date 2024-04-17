@@ -356,11 +356,3 @@
      width: 80%;
    }
  }
- @media screen and (max-width: 500px) {
-  .box12_button {
-    /* width: 100%; */
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-  }
- }
